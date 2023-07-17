@@ -1,6 +1,6 @@
 **An Interactive Dashboard for the Mixed Strategy Nash Equilibrium in the Production Attacker-Defender Contest**
 
-*NOTE: GitHub does not display the ipywidgets library outputs, to see the dashboard follow the link to "Open In Colab".* 
+*NOTE: GitHub does not display the ipywidgets library outputs, to see the dashboard follow the link to "Open In Colab". To interact, the associated libraries and functions must be loaded first.* 
 
 This Google Colab Notebook contains an interactive dashboard depicting the single mixed strategy Nash equilibrium and related key variables for the Production Attacker-Defender Contest, depending on production threshold T and production payoff k. The dashboard is created in Python.
 
